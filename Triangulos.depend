@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701369318 source:c:\idog\cpp_proyecto\triangulos\main.cpp
+	<iostream>
+	<Triangle.h>
+
+1701369654 c:\idog\cpp_proyecto\triangulos\include\triangle.h
+
+1701369835 source:c:\idog\cpp_proyecto\triangulos\src\triangle.cpp
+	"Triangle.h"
+	<cmath>
+
